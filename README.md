@@ -61,7 +61,7 @@ To remove a value from the database, call the `rem(key)` method with the desired
 ```
 
 ```python
-    db = MicroDB('users_db')
+    db = MicroDB('users_db','./databases/')
 
     db.set('alex:email','alex@user.com')
     _ = db.get('alex:email')
