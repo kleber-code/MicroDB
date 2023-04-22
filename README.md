@@ -49,7 +49,7 @@ To remove a value from the database, call the `rem(key)` method with the desired
 ```python
     db.rem('my_key')
 ```          
-#### Real World example
+#### Real World examples
 
 ```python
     db = MicroDB('huge_db')
