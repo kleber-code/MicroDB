@@ -65,9 +65,10 @@ To remove a value from the database, call the `rem(key)` method with the desired
 
     db.set('alex:email','alex@user.com')
     _ = db.get('alex:email')
+    print(_)
+    
     db.set('9213:email','nice.email@very.good')
     _ = db.get('9213:email')
-    
     print(_)
 ```
 Attributes
