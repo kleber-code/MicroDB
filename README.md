@@ -10,7 +10,7 @@ Usage
 
 To install MicroDB, you can clone the repository and add it as a submodule to your project by running the following command in your project directory:
 
-```git
+```bash
     git add submodule https://github.com/kleber-code/MicroDB
 ```
 
