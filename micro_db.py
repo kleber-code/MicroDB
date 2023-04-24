@@ -1,6 +1,6 @@
 __author__ = "Kleber Lucas de Santana Costa (kleber-code on github)"
 __credits__ = ["kleber-code"]
-__license__ = "MIT"
+__license__ = "GPL-3.0"
 __version__ = "0.1"
 __maintainer__ = "kleber-code"
 __email__ = "kleber.code@gmail.com"
