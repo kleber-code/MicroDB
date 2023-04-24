@@ -6,6 +6,14 @@ MicroDB is a simple, lightweight database implementation in Python. It allows yo
 Usage
 -----
 
+### Instalation
+
+To install MicroDB, you can clone the repository and add it as a submodule to your project by running the following command in your project directory:
+
+```git
+    git add submodule https://github.com/kleber-code/MicroDB
+```
+
 ### Instantiation
 
 To create a new MicroDB instance, simply call its constructor with the desired database name and directory path (optional, default is './'). If the database file does not exist yet, it will be created.
