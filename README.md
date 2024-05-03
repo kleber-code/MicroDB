@@ -19,7 +19,7 @@ To install MicroDB, you can clone the repository and add it as a submodule to yo
 To create a new MicroDB instance, simply call its constructor with the desired database name and directory path (optional, default is './'). If the database file does not exist yet, it will be created.
 
 ```python
-    from micro_db import MicroDB
+    from MicroDB import MicroDB
     
     db = MicroDB('my_database')
 ```
