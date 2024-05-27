@@ -96,5 +96,5 @@ This project is licensed under the terms of the GPL-3.0 license. See the [LICENS
 Author
 ------
 
-This project was created by Kleber Lucas de Santana Costa (kleber-code on GitHub). You can contact him at kleber.code@gmail.com.
+This project was created by Kleber Lucas de Santana Costa (pikdox on GitHub). You can contact him at kleber.code@gmail.com.
 
